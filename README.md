@@ -7,22 +7,22 @@
 
 - 📚 My field of study **Computer Science and Artificial Intelligent Engineering**
 
-- 🔭 I have worked on projects **Hand Gesture Controlled Robot
-                                  Rain Prediction With Support Vector Machine
-                                  Network Attached Storage With Raspberry Pi**
+- 🔭 I have worked on projects **Hand Gesture Controlled Robot , Rain Prediction With Support Vector Machine , Network Attached Storage With Raspberry Pi**
 
 - 💬 Ask me about **Java and Machine learning**
 
 - 📫 How to reach me **aringhorui@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WjCjL0wLzITA--0rfGzULuN8_rL8DT50/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WjCjL0wLzITA--0rfGzULuN8_rL8DT50/view?usp=sharing](https://drive.google.com/file/d/1WjCjL0wLzITA--0rfGzULuN8_rL8DT50/view?usp=sharing)
 
+- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aringhorui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aringhorui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aringhorui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aringhorui" height="30" width="40" /></a>
 <a href="https://fb.com/arin ghorui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arin ghorui" height="30" width="40" /></a>
+<a href="https://instagram.com/aringhorui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aringhorui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
