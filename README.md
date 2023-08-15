@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aringhorui@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WjCjL0wLzITA--0rfGzULuN8_rL8DT50/view?usp=sharing)
+- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1WjCjL0wLzITA--0rfGzULuN8_rL8DT50/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
