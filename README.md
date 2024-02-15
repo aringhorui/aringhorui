@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **aringhorui@icloud.com**
 
-- 📄 Know about my experiences Resume
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aa8ZA4mR8jlnDSF-JOBxOnjlproNcGKC/view?usp=sharing)
+
 
 
 <h3 align="left">Connect with me:</h3>
