@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aringhorui@icloud.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tkIj6en-kk0fn0ykdXf8hOFqpv6S9x6Z/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_zDC3CPvv0UUS6kTYmkJrHnmhal1Z3sy/view?usp=sharing)
 
 
 
