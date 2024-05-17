@@ -8,6 +8,8 @@
 - 📚 My field of study **Computer Science and Artificial Intelligent Engineering**
 
 - 🔭 I have worked on projects **Gesture Controlled Robot , S and P 500 analysis , Medical Image Segmentation , Stock Prediction Using LSTM**
+  
+- 👨🏾‍💻 I am working on projects **Real-Time Stress Disorder Detection System, Player Detection using YOLO V , Real-Time Disaster Tweet Classification and Localization**
 
 - 💬 Ask me about **Java and Machine learning**
 
